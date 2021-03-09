@@ -1,2 +1,2 @@
 # Stone-Paper-Scissors
-hello world
+second game
